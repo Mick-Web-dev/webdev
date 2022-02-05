@@ -1,0 +1,17 @@
+{
+    "name": "micka/webdev",
+    "description": "blog professionnel",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Micka\\Webdev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mickael",
+            "email": "mickael.hesliere@gmail.com"
+        }
+    ],
+    "require": {}
+}
